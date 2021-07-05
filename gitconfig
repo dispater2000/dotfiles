@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = manuelpizarroh@gmail.com
+	name = Manuel Pizarro
